@@ -1,0 +1,3 @@
+have to do difference between let(local variable)(can update),var(global variable),constant(block)
+
+asynchronous programming and call back function
